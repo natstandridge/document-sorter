@@ -1,0 +1,5 @@
+docx==0.2.4
+lxml==4.8.0
+pdfminer==20191125
+Pillow==9.1.0
+pycryptodome==3.14.1
